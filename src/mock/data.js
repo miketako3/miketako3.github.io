@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '2019年4月に新卒で大手Web系企業に就職。その後現在まで勤務',
   paragraphTwo: '経験：Java, Spring Boot等',
   paragraphThree: '興味：ドライブ、ゲーム',
-  //  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://miketako.xyz', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
