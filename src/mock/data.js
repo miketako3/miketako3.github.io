@@ -20,7 +20,7 @@ export const aboutData = {
   img: 'fuji.png',
   paragraphOne: '2019年4月に新卒で大手Web系企業に就職。その後現在まで勤務',
   paragraphTwo: '経験：Java, Spring Boot等',
-  paragraphThree: '興味：ドライブ、ゲーム',
+  paragraphThree: '興味：ドライブ、ゲーム、写真',
   resume: 'https://miketako.xyz', // if no resume, the button will not show up
 };
 
@@ -70,11 +70,11 @@ export const footerData = {
       name: 'twitter',
       url: 'https://twitter.com/miketako3',
     },
-    // {
-    //   id: nanoid(),
-    //   name: 'codepen',
-    //   url: '',
-    // },
+    {
+      id: nanoid(),
+      name: 'zenn',
+      url: 'https://zenn.dev/miketako3',
+    },
     // {
     //   id: nanoid(),
     //   name: 'linkedin',
